@@ -1,7 +1,7 @@
 # Site
 title:              Deepak Sharma
 bio:                'Associate Software Engineer at Khosla Labs'
-description:        "IIT Mandi graduate with interests in Deep Learning, Computer Vision and Competitive Programming."
+description:        "IIT Mandi Graduate"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -30,27 +30,27 @@ disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
+google:
+  plus:            deepakks1995
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+twitter:            deepakks1995
+facebook:           deepakks1995
+github-url:         deepakks1995
+stackoverflow:     5952358/deepak-sharma
+linkedin:          deepakks1995
 #xing:              username
-instagram:          username
+instagram:          deepakks1995
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              deepakks1995
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
