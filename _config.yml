@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://deepakks1995.github.io/
 
@@ -31,14 +31,14 @@ disqus_shortname:   taylantatli
 # Social
 # if you don't have any of social below, comment the line.
 google:
-  plus:            deepakks1995
+  plus:            DeepakSharma1995
   #analytics:
   #verify:
   #ad-client:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            deepakks1995
+#twitter:            #username
 facebook:           deepakks1995
 github-url:         deepakks1995
 stackoverflow:     5952358/deepak-sharma
@@ -50,7 +50,7 @@ instagram:          deepakks1995
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              deepakks1995
+#steam:              deepakks1995
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
